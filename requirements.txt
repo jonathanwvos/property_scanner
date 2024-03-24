@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+money-parser
+Pyarrow
+scipy
+matplotlib
